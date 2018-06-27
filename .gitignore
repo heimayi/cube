@@ -1,0 +1,7 @@
+src
+Doraemon/target
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
